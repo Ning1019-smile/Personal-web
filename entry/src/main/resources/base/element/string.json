@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "宿舍分布式协作板"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "共享白板、值日表与账单，多设备实时同步"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "宿舍协作板"
+    },
+    {
+      "name": "reason_distributed_data",
+      "value": "用于把白板便签、值日安排与账单数据在宿舍成员的手机、平板、智慧屏之间自动同步"
+    }
+  ]
+}
